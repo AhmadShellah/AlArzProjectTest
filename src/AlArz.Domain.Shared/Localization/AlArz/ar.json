@@ -1,0 +1,70 @@
+{
+  "culture": "ar",
+  "texts": {
+
+    "Menu:Home": "الصفحة الرئيسية",
+    "Menu:Home": " الرئيسية",
+    "LongWelcomeMessage": "مرحبا بكم في التطبيق. هذا مشروع بدء تشغيل يعتمد على إطار عمل ABP. لمزيد من المعلومات ، يرجى زيارة abp.io.",
+
+    //****************************************************************************
+    //Start AdminManagement Errors
+    //****************************************************************************
+    "adminManagement:lookupAlreadyExists": "التصنيف موجود بالفعل",
+
+    "adminManagement:lookupNotFound": "غير موجود",
+
+    "adminManagement:configNameAlreadyExists": "الاعداد موجود بالفعل",
+
+    "adminManagement:NotificationTemplateEventAndNotificationTypeAlreadyExists": "الاشعار موجود بالفعل",
+
+    "adminManagement:RecordNotFound": "البينات ليست موجوده",
+
+    "adminManagement:NotCreated": "لم يتم ادخال البينات",
+
+    "adminManagement:NotUpdated": "لم يتم تحديث البيانات",
+
+    "adminManagement:NotDelete": "لم يتم الحذف",
+
+    "adminManagement:NotFound": "غير موجود",
+
+    "adminManagement:BadRequest": "حصل خطاء ما",
+
+    "adminManagement:OneOrMoreNotFound": "واحد أو أكثر غير موجود",
+
+    "adminManagement:DeleteNotAllowed": "غير مسموج الحذف",
+
+    "adminManagement:IsDefaultIsRequired": "هو افتراضي ومطلوب",
+
+    "adminManagement:UpdateMood": "إنشاء",
+
+    "adminManagement:UpdateNotiTheUserHaveCountingCyclefication": "تعديل",
+
+    "adminManagement:PathFileNotFoundNotification": "الملف الخاص بالإشعارات غير موجود",
+    "adminManagement:CurrentPsswordIsIncorrect": "كلمة السر الحالية غير صحيحة",
+
+    //*******************************
+    //Shared Error
+    //*******************************
+
+    "shared:InProgressExceptions": "قيد المعالجة حالياً",
+
+    "shared:NotFound": "غير موجود",
+
+    "shared:RecordAlReadyExist": "البينات موجودة بالفعل",
+
+    "shared:NotCreated": "لم يتم الإنشاء",
+
+    "shared:NotDelete": "لم يتم الحذف",
+
+    "shared:NotUpdated": "لم يتم التحديث",
+
+    "shared:BadRequest": "حصل خطاء ما",
+
+    "shared:CustomExeption": "حصل خطاء",
+
+    "shared:DuplicateObjectException": "لا يمكن تكرار المعلومات",
+
+    //NewContent
+
+  }
+}

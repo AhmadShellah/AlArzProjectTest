@@ -1,0 +1,70 @@
+{
+  "culture": "en",
+  "texts": {
+    "Menu:Home": "Home",
+    "Welcome": "Welcome",
+    "LongWelcomeMessage": "Welcome to the application. This is a startup project based on the ABP framework. For more information, visit abp.io.",
+    //****************************************************************************
+    //Start AdminManagement And Shared Errors
+    //****************************************************************************
+    "adminManagement:lookupAlreadyExists": "Lookup Already Exists",
+
+    "adminManagement:lookupNotFound": "Lookup Not Found",
+
+    "adminManagement:configNameAlreadyExists": "Config Name Already Exists",
+
+    "adminManagement:NotificationTemplateEventAndNotificationTypeAlreadyExists": "Notification Template Event And Notification Type Already Exists",
+
+    "adminManagement:RecordNotFound": "Record Not Found",
+
+    "adminManagement:NotCreated": "Not Create",
+
+    "adminManagement:NotUpdated": "Not Update",
+
+    "adminManagement:NotDelete": "Not Delete",
+
+    "adminManagement:NotFound": "Not Fount",
+
+    "adminManagement:BadRequest": "Bad Request",
+
+    "adminManagement:OneOrMoreNotFound": "One Or More Not Found",
+
+    "adminManagement:DeleteNotAllowed": "Delete Not Allowed",
+
+    "adminManagement:IsDefaultIsRequired": "Is Default Is Required",
+
+    "adminManagement:UpdateMood": "Add",
+
+    "adminManagement:UpdateNotification": "Edit",
+
+    "adminManagement:PathFileNotFoundNotification": "Path File Not Found Notification",
+    "adminManagement:CurrentPsswordIsIncorrect": "The Currnet Password is incorrect",
+
+    //*******************************
+    //Shared Error
+    //*******************************
+
+    "shared:InProgressExceptions": "In Progress Exceptions",
+
+    "shared:NotFound": "Not Found",
+
+    "shared:RecordAlReadyExist": "Record Al Ready Exist",
+
+    "shared:NotCreated": "Not Created",
+
+    "shared:NotDelete": "Not Delete",
+
+    "shared:NotUpdated": "Not Updated",
+
+    "shared:BadRequest": "Bad Request",
+
+    "shared:CustomExeption": "Custom Exeption",
+
+    "shared:DuplicateObjectException": "Duplicate Object Exception",
+
+    "shared:NullValue": "Null Value Exception",
+
+    //NewContent
+
+  }
+}
