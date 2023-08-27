@@ -27,8 +27,6 @@ public class AlArzApplicationContractsModule : AbpModule
     {
         AlArzDtoExtensions.Configure();
     }
-
-
 }
 
 public class CustomAuditLogContributor : AuditLogContributor
