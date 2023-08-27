@@ -8,13 +8,13 @@ using Volo.Abp.AspNetCore.Mvc;
 
 namespace AlArz.Controllers.MenuManagment
 {
-    public class MenuController : AbpController, IMenuService
+    public class MenuTypeController : AbpController, IMenuTypeService
     {
-        private readonly IMenuService _menuService;
+        private readonly IMenuTypeService _menuTypeService;
 
-        public MenuController(IMenuService menuService)
+        public MenuTypeController(IMenuTypeService menuTypeService)
         {
-            _menuService = menuService;
+            _menuTypeService = menuTypeService;
         }
     }
 }
